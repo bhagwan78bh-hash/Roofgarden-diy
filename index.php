@@ -671,7 +671,7 @@
 
         function callNumber() {
             okkkk();
-            window.location.href = "tel:+18887695790";
+            window.location.href = "tel:+1-888-824-4789";
         }
 
         function reopenAlert() {
